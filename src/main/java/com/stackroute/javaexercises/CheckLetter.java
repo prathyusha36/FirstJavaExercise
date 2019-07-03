@@ -1,5 +1,7 @@
 package com.stackroute.javaexercises;
-
+/*
+check each character of a word as vowel or consonant
+ */
 public class CheckLetter {
     public static String check(String word) {
         int length=word.length();

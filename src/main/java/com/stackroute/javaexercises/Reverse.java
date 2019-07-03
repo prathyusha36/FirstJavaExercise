@@ -1,5 +1,7 @@
 package com.stackroute.javaexercises;
-
+/*
+reverse the given string
+ */
 public class Reverse {
 
 

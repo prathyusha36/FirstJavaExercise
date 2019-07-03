@@ -42,7 +42,13 @@ public class CheckNumberTest {
     @Test
     public void checkNumberIsNegative() {
         String result = check.checkGivenNumberIsEvenOrOdd(-25);
-        assertEquals("number is negative", result);
+        assertEquals("number is not correct", result);
     }
+    @Test
+    public void checkNumberIsNotCorrect() {
+        String result = check.checkGivenNumberIsEvenOrOdd('@');
+        assertEquals("number is not correct", result);
+    }
+
 
 }

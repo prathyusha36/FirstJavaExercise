@@ -1,7 +1,7 @@
 package com.stackroute.javaexercises;
 
 /*
-Reads unspecified number of integer arguments using Scanner class and adds them together.
+Reads unspecified number of integer arguments and adds them together.
  */
 
 public class ScannerIntegers {

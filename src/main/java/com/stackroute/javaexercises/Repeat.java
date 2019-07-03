@@ -1,5 +1,7 @@
 package com.stackroute.javaexercises;
-
+/*
+concat the given length of characters to string
+ */
 public class Repeat {
 
         public static String finalOutputString(String str,int n) {

@@ -1,5 +1,7 @@
 package com.stackroute.javaexercises;
-
+/*
+determine the type of character as capital,small or digit
+ */
 public class CharacterType {
 
 

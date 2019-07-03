@@ -2,7 +2,7 @@ package com.stackroute.javaexercises;
 
 
 /*
-To determine whether the input string is a main.java.com.stackroute.pe1.Palindrome or not.
+To determine whether the input string is a Palindrome or not.
  */
 
     public class Palindrome {
